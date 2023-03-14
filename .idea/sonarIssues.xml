@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/di/app_module.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/di/service_locator.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/di/service_locator_impl.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/generated/l10n.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/l10n/intl_en.arb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/main.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/mixin/my_mixin.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/screens/home_screen.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/utils/image_helper.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/lib/utils/shimmer_helper.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pubspec.yaml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/core/feature_flag/launchdarkly_keys.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/features/betting/betslip/view_models/betslip_configuration.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/features/racing/meeting/screens/race_view.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/features/racing/meeting/screens/speed_map_view.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/features/racing/sort_runners/widget/ascending_descending_sorting_view.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/features/statements/bloc/my_bets_filters_cubit.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/features/statements/utils/my_bets_manger.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/l10n/intl_en.arb">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/lib/models/my_bets/all_bets_date_range_config.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/test/my_bets/bloc/my_bets_filters_cubit_test.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/test/my_bets/bloc/my_bets_filters_cubit_test.mocks.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../../TabCorp/new Flutter/Flutter-TAB/test/racing/screens/meeting_card/speed_map_view_test.dart">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
